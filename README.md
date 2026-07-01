@@ -22,17 +22,6 @@ The goal is to build an accurate and reliable model that estimates house prices 
 
 
 
-## 📂 Project Structure
-
-
-House-Price-Prediction/
-│── dataset_2.csv
-│── House_Price_Prediction.ipynb
-│── house_price_model.pkl
-│── requirements.txt
-└── README.md
-
-
 ## 🛠️ Technologies Used
 
 * Python
@@ -73,7 +62,7 @@ The Random Forest Regression model achieved an **R² Score of 0.9091**, indicati
 
 ## ▶️ Installation
 
-git clone https://github.com/your-username/House-Price-Prediction.git
+git clone https://github.com/tanuja-mungase/House-Price-Prediction.git
 
 cd House-Price-Prediction
 
